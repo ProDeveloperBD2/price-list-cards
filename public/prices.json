@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Gym Membership",
+        "price": 49.99,
+        "featureList": [
+            "Access to all gym facilities",
+            "Unlimited fitness classes",
+            "Personal training available"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Fitness Classes",
+        "price": 9.99,
+        "featureList": [
+            "Variety of fitness classes",
+            "Experienced instructors",
+            "Flexible class schedules"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Personal Training",
+        "price": 29.99,
+        "featureList": [
+            "One-on-one sessions with a certified trainer",
+            "Customized workout plans",
+            "Nutritional guidance"
+        ]
+    }
+]
